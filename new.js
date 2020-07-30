@@ -73,3 +73,4 @@ if(response=='completed' && resolution=='completed')
      gs.print("false");
   
 }
+alert("done");
